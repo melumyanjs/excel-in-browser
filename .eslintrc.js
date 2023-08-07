@@ -26,5 +26,7 @@ module.exports = {
     'semi': 'off',
     'require-jsdoc': 'off',
     'arrow-parens': 'off',
+    'operator-linebreak': 'off',
+    'no-unused-vars': 'off',
   },
 };
